@@ -2,7 +2,7 @@
 
 ## Description
 
-A clean and simple Keynote theme inspired by Helvetireader.
+A clean and simple Keynote theme inspired by [Helvetireader](http://helvetireader.com/ "Helvetireader²").
 
 ## New BSD License
 
