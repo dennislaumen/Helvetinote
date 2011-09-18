@@ -4,6 +4,12 @@
 
 A clean and simple Keynote theme inspired by [Helvetireader](http://helvetireader.com/ "Helvetireader²").
 
+## Installation
+
+To use this theme, copy the *.kth file to ~/Library/Application Support/iWork/Keynote/Themes.
+
+Now you can choose this theme in Keynote's Theme Chooser.
+
 ## New BSD License
 
 Copyright (c) 2011, Dennis Laumen
